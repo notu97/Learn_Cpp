@@ -1,2 +1,2 @@
-# Learn_C-
-Repo for learning C++
+# Learn_Cpp
+Repo for learning C++. 
